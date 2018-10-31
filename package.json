@@ -2,6 +2,7 @@
   "name": "cotizador",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://kmendoza0829.github.io/CursosUdemy",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
